@@ -63,5 +63,5 @@ Badges Achieved
 
 [![AWS License](https://images.credly.com/images/aff0aeef-c430-4182-8a13-f8c610e1211e/twitter_thumb_201604_AWS-Academy-Graduate-Badge-Specialty.png)](https://lnkd.in/gKxDdKt6)
 
-[![Oracle SQL License](https://education.oracle.com/file/general/Oracle-Explorer-Badge.png)](https://lnkd.in/gdqqBYAM)
+[![Oracle SQL License](https://education.oracle.com/file/general/badge-explorer.png)](https://lnkd.in/gdqqBYAM)
 
